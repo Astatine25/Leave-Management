@@ -9,7 +9,6 @@ No spreadsheets, no hassle, just smooth leave management that keeps work and lif
 
 <img width="1440" height="782" alt="leave-tracker" src="https://github.com/user-attachments/assets/41d2b1ca-afde-4381-b027-93c38d4a6d0a" />
 
-
 ---
 
 <br />
@@ -22,7 +21,11 @@ No spreadsheets, no hassle, just smooth leave management that keeps work and lif
  
 <br />
 
+## Workflow of AI Tool operations:
+ 
+<img width="216" height="249" alt="customGraph" src="https://github.com/user-attachments/assets/ce102003-acf9-473a-a5af-aa6b66f9954d" />
 
+<br />
 
 ## 📌 Important Notes
 
