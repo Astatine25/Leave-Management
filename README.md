@@ -1,7 +1,7 @@
 <br />
 
 > [!IMPORTANT]
-> The Website is hosted on Render’s free tier, so it might take a few seconds to load - but hey, good things take time! 😄
+> The Website is hosted on Render’s free tier, so it might take a few seconds to load and display the website - but hey, good things take time! 😄
 
 <br />
 
