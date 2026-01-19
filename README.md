@@ -184,8 +184,4 @@ docker compose up
 4. **The app will now start and be available at `http://localhost:3000`**
 <div align="center">
 
-<br/>
-Powered by ☕️ & 🎧 <br>
-Aryan Kalra
 
-</div>
