@@ -13,14 +13,14 @@ No spreadsheets, no hassle, just smooth leave management that keeps work and lif
 
 
 <br />
-<img width="1440" height="782" alt="leave-tracker" src="https://github.com/user-attachments/assets/41d2b1ca-afde-4381-b027-93c38d4a6d0a" />
+<img width="1440" height="782" alt="leave-tracker" src="https://github.com/Astatine25/Leave-Management.git" />
 
 ---
 
 <br />
 
 <div>
-<video alt="leave-tracker" src="https://github.com/user-attachments/assets/83de40ef-1755-4ec8-8084-ca8ae4b1effc" loop />
+<video alt="leave-tracker" src="https://github.com/Astatine25/Leave-Management.git" loop />
 </div>
 
 ---
@@ -29,7 +29,7 @@ No spreadsheets, no hassle, just smooth leave management that keeps work and lif
 
 ## Workflow of AI Tool operations:
  
-<img width="216" height="249" alt="customGraph" src="https://github.com/user-attachments/assets/ce102003-acf9-473a-a5af-aa6b66f9954d" />
+<img width="216" height="249" alt="customGraph" src="https://github.com/Astatine25/Leave-Management.git" />
 
 <br />
 
@@ -109,7 +109,7 @@ No spreadsheets, no hassle, just smooth leave management that keeps work and lif
    - When running in Docker, clicking on the **calendar icon** will send an email containing a **Google Calendar link**.
    - Opening this link grants you permission to view live events synced with Google Calendar.
 
-   - <img width="700" height="782" alt="Screenshot 2025-09-04 at 1 12 19 PM" src="https://github.com/user-attachments/assets/108b968a-c7aa-44f4-8556-b378b2732cc7" />
+   - <img width="700" height="782" alt="Screenshot 2025-09-04 at 1 12 19 PM" src="https://github.com/Astatine25/Leave-Management.git" />
 
 4. **Admin** configures users, leave quotas, projects, and groups.
 
